@@ -1,0 +1,27 @@
+[
+    {
+        "product_name": "HP Inc. Essential Laptop Computer 17.3\" HD+ Intel Core 8 GB memory; 256 GB SSD",
+        "categories": [
+            "Electronics",
+            "Computers & Tablets",
+            "Laptops"
+        ],
+        "model_no": "Not found",
+        "tcin_id": "92469343",
+        "images": [
+            "https://target.scene7.com/is/image/Target/GUEST_xxx-xxx-xxx?wid=800&hei=800&qlt=80&fmt=webp",
+            "https://target.scene7.com/is/image/Target/GUEST_yyy-yyy-yyy?wid=800&hei=800&qlt=80&fmt=webp"
+        ],
+        "specifications": {
+            "Operating System": "Windows 11 Home",
+            "Processor": "Intel® Core™ i3-1215U (up to 4.4 GHz, 10 MB L3 cache, 6 cores, 8 threads)",
+            "Memory": "8 GB DDR4-3200 MT/s (1 x 8 GB)",
+            "Display": "17.3\" diagonal, HD+ (1600 x 900), anti-glare, 250 nits, 60% NTSC"
+        },
+        "description": "Windows 11 Home Intel® Core™ i3-1215U (up to 4.4 GHz, 10 MB L3 cache, 6 cores, 8 threads) Integrated Intel® Graphics 8 GB DDR4-3200 MT/s (1 x 8 GB) 17.3\" diagonal, HD+ (1600 x 900), anti-glare, 250 nits, 60% NTSC",
+        "variant": "Not applicable",
+        "price": "$649.99",
+        "discount_price": "Not available",
+        "sellers": ["Target"]
+    }
+]
